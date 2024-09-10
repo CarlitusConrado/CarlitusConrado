@@ -1,5 +1,5 @@
- <img src="[![pessoa](https://github.com/user-attachments/assets/86d04a3c-4162-419f-af35-efcc506edfd7))" alt="Imagem de uma pessoa">
-
+<img width=100% align="center" src="https://github.com/CarlitusConrado/CarlitusConrado/issues/1#issue-2517232320" />
+ </div>
 
 
 <p align="center">Sou Publicitário, Designer Gráfico e especialista em UX/UI, com uma nova paixão pelo desenvolvimento front-end.</p>&nbsp;
