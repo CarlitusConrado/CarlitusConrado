@@ -1,4 +1,4 @@
- <img src="[assets/img/pessoa.png](https://photos.fife.usercontent.google.com/pw/AP1GczNaZWAZvT4WxI-vMP1OYFtwaerQVr9Xr-aesGIWae-bWNUYg_t8rp6n=w427-h465-s-no-gm?authuser=0)" alt="Imagem de uma pessoa">
+ <img src="[![pessoa](https://github.com/user-attachments/assets/86d04a3c-4162-419f-af35-efcc506edfd7))" alt="Imagem de uma pessoa">
 
 
 
