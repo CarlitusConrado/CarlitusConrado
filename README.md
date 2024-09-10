@@ -1,6 +1,5 @@
-<img width=100% align="center" src="https://github.com/CarlitusConrado/CarlitusConrado/issues/1#issue-2517232320" />
- </div>
-
+<img align="center" style="object-fit: contain" width=100% src="https://github.com/CarlitusConrado/CarlitusConrado/issues/1#issue-2517232320" />
+&nbsp;&nbsp;&nbsp;
 
 <p align="center">Sou Publicitário, Designer Gráfico e especialista em UX/UI, com uma nova paixão pelo desenvolvimento front-end.</p>&nbsp;
 
