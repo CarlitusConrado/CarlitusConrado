@@ -1,7 +1,5 @@
+ <img src="[assets/img/pessoa.png](https://photos.fife.usercontent.google.com/pw/AP1GczNaZWAZvT4WxI-vMP1OYFtwaerQVr9Xr-aesGIWae-bWNUYg_t8rp6n=w427-h465-s-no-gm?authuser=0)" alt="Imagem de uma pessoa">
 
-<img align="center" src="(https://photos.fife.usercontent.google.com/pw/AP1GczNaZWAZvT4WxI-vMP1OYFtwaerQVr9Xr-aesGIWae-bWNUYg_t8rp6n=w427-h465-s-no-gm?authuser=0)
-" />
-&nbsp;&nbsp;&nbsp;
 
 
 <p align="center">Sou Publicitário, Designer Gráfico e especialista em UX/UI, com uma nova paixão pelo desenvolvimento front-end.</p>&nbsp;
