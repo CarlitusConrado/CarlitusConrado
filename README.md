@@ -1,30 +1,26 @@
-
-
-
-
 <div align="center">
   <img height="200" src="https://lh3.googleusercontent.com/pw/AP1GczMEdI1rHXZhRRFggmFlFwhvTcOvfRb6imz-lbaFn3tUIt46uVf2Qf4s8_V4kukyIAwuaNEEYB0oH8_za0OtYbzJPjbtGhKOz1-n2bBGkq9FnvQhVtA8MpdPTQVBcYrXGiCihEapFU2Gc6oRNiifWWM=w506-h529-s-no-gm?authuser=2"  />
 </div>
 
 ###
 
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Olá 👋 Tudo bem?</h1>
 
 ###
 
-<p align="center">My name is Carlos Conrado and I’m a UX/UI Designer and front-end student.</p>
+<p align="center">Meu nome é Carlos Conrado e sou UX/UI Designer e estudante de front-end.</p>
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="center">Sobre mim</h2>
 
 ###
 
-<p align="center">✨ Creating bugs since 2024<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="center">✨ Criando bugs desde 2024<br>📚 Atualmente estou aprendendo...<br>🎯 Objetivos: ...<br>🎲 Curiosidade: ...</p>
 
 ###
 
-<h2 align="center">I code with</h2>
+<h2 align="center">Tecnologias que uso</h2>
 
 ###
 
@@ -38,7 +34,7 @@
 
 ###
 
-<h2 align="center">skills</h2>
+<h2 align="center">Habilidades</h2>
 
 ###
 
@@ -56,7 +52,7 @@
 
 ###
 
-<h2 align="center">Stats</h2>
+<h2 align="center">Estatísticas</h2>
 
 ###
 
@@ -65,9 +61,7 @@
   <img src="https://streak-stats.demolab.com?user=CarlitusConrado&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-
-
-## Contacts:
+## Contatos:
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;"> 
   <a href="https://www.instagram.com/conrado.publicitario@gmail.com" target="_blank">
@@ -80,9 +74,5 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>&nbsp;&nbsp;
- 
-
-  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-
